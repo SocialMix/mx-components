@@ -1,0 +1,23 @@
+{
+  "name": "mx-components",
+  "version": "1.0.0",
+  "description": "A stand-alone Open Source library for User-Interface (UI) dialogs for complex HTML5-based Rich Clients",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SocialMix/mx-components.git"
+  },
+  "keywords": [
+    "UI",
+    "components"
+  ],
+  "author": "“Dominic” <dominic097@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SocialMix/mx-components/issues"
+  },
+  "homepage": "https://github.com/SocialMix/mx-components#readme"
+}
